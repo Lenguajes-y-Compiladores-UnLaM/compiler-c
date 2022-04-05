@@ -1,4 +1,4 @@
-# Plantilla para TP Integrador usando Flex y Bison (C / C++)
+# Plantilla para TP Integrador usando Flex y Bison (C)
 
 ## Prerequisitos. 
 

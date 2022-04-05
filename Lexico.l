@@ -44,6 +44,6 @@ PC			")"
 "\n\t"
 " "             		
 "\r\n"
-.			printf( "ERROR LEXICO : Caracter no reconocido: %s\n", yytext );
+.			 { printf( "ERROR LEXICO : Caracter no reconocido: %s\n", yytext ); exit (0);}
 
 
