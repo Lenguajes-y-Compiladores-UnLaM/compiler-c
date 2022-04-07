@@ -20,6 +20,9 @@ Descargue los instaladores para Windows de las siguientes páginas:
 3. [GCC](https://sourceforge.net/projects/mingw/files/)
 4. Siga el siguiente [instructivo](https://issuu.com/lilianachisaguano/docs/instalacion_de_flex__bison_y_mingw)
 
+* Tanto para los binarios instalados flex y bison, es recomendable instalarlos en C:\GnuWin32 y luego agregar "C:\GnuWin32\bin" en variables de entorno -> variables del sistema -> editar variable path y agregar a la lista.
+* Lo mismo para gcc, agregar el path donde sea instalado (ej: C:\MinGW\bin) a las variables del sistema en la variable path.
+
 ### Ubuntu
 
 1. Abra una terminal
