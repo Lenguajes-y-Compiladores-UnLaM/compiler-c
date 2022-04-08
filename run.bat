@@ -1,6 +1,6 @@
 :: Script para windows
-flex lexico.l
-bison -dyv sintactico.y
+flex Lexico.l
+bison -dyv Sintactico.y
 
 gcc.exe lex.yy.c y.tab.c -o compilador.exe
 
