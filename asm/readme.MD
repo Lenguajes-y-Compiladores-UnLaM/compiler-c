@@ -3,7 +3,7 @@
 ## Prerequisitos
 
 1. Instalar [DOSBox](https://www.dosbox.com/)
-2. Ejecutar el comando
+2. Abrir DSBOX y ejecutar el comando:
 
 ``
 mount c <<tu directorio>>
