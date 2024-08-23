@@ -11,7 +11,7 @@ Para poder usar esta plantilla deberá:
 3. Instalar [gcc](https://gcc.gnu.org/)
 
 
-### Windows. 
+### Windows
 
 Descargue los instaladores para Windows de las siguientes páginas:
 
@@ -60,3 +60,13 @@ which flex
 which bison
 which gcc
 ```
+
+## Ejecución  
+
+### Windows
+
+Ejecutar el archivo run.bat
+
+### Linux / Unix
+
+Ejecutar el archivo run.sh
